@@ -22,7 +22,7 @@ Um diesen Escape Room durchführen zu können, benötigt ihr folgende Ausstattun
 Wir haben in unserem Fall Folgendes genutzt um den Escape Room durchführen zu können.
 
 - **Eine Raspberry Pi 4**
-- **Eine SD-Karte mit mindestens 16 GB
+- **Eine SD-Karte mit mindestens 16 GB**
 - **Eine Kopie von Kali Linux**
 - **Passwortliste**: Eine Liste von möglichen Passwörtern, diese wird zur Verfügung gestellt in der "Passwörterliste.md" Datei.
 - **Geschichte:** Diese kann in der "Geschichte.md" Datei gefunden werden oder unter: https://riddle.hackingescaperoom.tech
