@@ -56,3 +56,7 @@ Für weitere Informationen und um auf alle relevanten Dateien zuzugreifen, besuc
 - **Hacking Escape Room Webseite GitHub Repository:** [https://github.com/HackingEscapeRoom/Escape-Room-Website](https://github.com/HackingEscapeRoom/Escape-Room-Website)
 - **Rätselseite:** [https://riddle.hackingescaperoom.tech](https://riddle.hackingescaperoom.tech)
 - **Rätselseite GitHub Repository:** [https://github.com/HackingEscapeRoom/Hacking-Escape-Room-Riddle](https://github.com/HackingEscapeRoom/Hacking-Escape-Room-Riddle)
+
+## Lizenz
+
+Der Quellcode für die Rätsel steht unter der MIT-Lizenz. Details findest du in der LICENSE-Datei. Die enthaltenen Bilder sind nur zur Ansicht und dürfen nicht ohne Genehmigung weiterverwendet werden.
