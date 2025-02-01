@@ -28,8 +28,10 @@ Wir haben in unserem Fall Folgendes genutzt um den Escape Room durchführen zu k
 - **Ducky Skript:** Der Inhalt des Skriptes ist in der "inject.bin" File. 
 - **USB-Stick**
 - **Passwortliste**: Eine Liste von möglichen Passwörtern, diese wird zur Verfügung gestellt in der "Passwörterliste.md" Datei.
+- **Bild mit Steganografie** Datei in den Ressourcen.
 - **Geschichte:** Diese kann in der "Geschichte.md" Datei gefunden werden oder unter: https://riddle.hackingescaperoom.tech
 - **Anleitung:** Die Anleitung ist in der "Anleitung.md" Datei zu finden 
+- **Weitere hilfreiche Ressourcen finden sie in dieser Repository**.
 - **Zeit**: Die Zeit variiert je nach Teamgröße, aber rechnet mit etwa 1 bis 2 Stunden, um alle Rätsel zu lösen.
 
 ## Wie funktioniert der Escape Room?
